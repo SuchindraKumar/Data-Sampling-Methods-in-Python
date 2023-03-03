@@ -1,1 +1,1 @@
-# Data-Sampling-Methods-in-Python
+# Some Important Data-Sampling-Methods-in-Python
